@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  name: 'skills',
+  name: 'Skills',
   data() {
     return {
       skill: '',
